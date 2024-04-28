@@ -86,6 +86,6 @@ def my_function_name():
     sleep(3)
 
 while True: 
-    time.sleep(20) # pause the script for 20 seconds
+    time.sleep(2400) # pause the script for 20 seconds
     my_function_name()
     pygame.quit() # quit Pygame
